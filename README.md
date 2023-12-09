@@ -1,4 +1,4 @@
-# Browser by commit history of other hooks
+# Browse by commit history for other hooks
 By clicking on commit history icon and "Browse the repository at this point in the history"
 
 # Getting Started with Create React App
