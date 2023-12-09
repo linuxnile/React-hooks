@@ -1,3 +1,6 @@
+# Browser by commit history of other hooks
+By clicking on commit history icon and "Browse the repository at this point in the history"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
